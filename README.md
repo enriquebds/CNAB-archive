@@ -4,6 +4,7 @@
 
 - [Visão Geral](#1-visão-geral)
 - [Tecnologias Utilizadas](#2-tecnologias-utilizadas)
+- [Rodar Localmente](#3-rodar-localmente)
 
 ---
 
