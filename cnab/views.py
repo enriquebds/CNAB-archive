@@ -15,5 +15,5 @@ def upload(req):
 
         list = []
         with open(f"uploads/{str(archive.archive)}", encoding="utf-8") as read:
-             for file_line in read:
-                list.append(file_line)
+             for line in read:
+                list.append(line)
